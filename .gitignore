@@ -1,0 +1,7 @@
+data/finwise_users.sqlite3
+data/user_data/
+data/profile_images/
+__pycache__/
+.pytest_cache/
+.venv/
+*.tmp

@@ -1,0 +1,121 @@
+date,type,category,amount,description
+2026-06-01,Income,Salary,65000,Monthly salary
+2026-06-03,Income,Loan,10000,Short-term personal loan
+2026-06-04,Expense,Food,2500,Groceries
+2026-06-04,Expense,Transportation,210,Ride / bus fare
+2026-06-04,Expense,Transportation,150,Ride / bus fare
+2026-06-05,Expense,Housing,18000,House rent
+2026-06-07,Expense,Housing,2900,"Utilities (electricity, gas, internet)"
+2026-06-08,Expense,Health,1800,Pharmacy / checkup
+2026-06-10,Expense,Transportation,120,Ride / bus fare
+2026-06-10,Expense,Education,4500,Course / books
+2026-06-11,Expense,Food,2000,Groceries
+2026-06-14,Expense,Transportation,160,Ride / bus fare
+2026-06-14,Expense,Transportation,1900,Fuel / monthly pass
+2026-06-14,Expense,Entertainment,700,Weekend trip
+2026-06-15,Income,Investment,1200,Dividend / interest
+2026-06-15,Expense,Food,800,Dining out - restaurant
+2026-06-17,Expense,Food,2100,Groceries
+2026-06-17,Expense,Transportation,170,Ride / bus fare
+2026-06-18,Expense,Entertainment,800,Weekend trip
+2026-06-21,Expense,Transportation,120,Ride / bus fare
+2026-06-23,Expense,Transportation,130,Ride / bus fare
+2026-06-23,Expense,Entertainment,1300,Concert / outing
+2026-06-24,Income,Freelance,11000,Freelance project payment
+2026-06-24,Expense,Food,2600,Groceries
+2026-06-26,Expense,Food,400,Dining out - restaurant
+2026-06-28,Expense,Transportation,150,Ride / bus fare
+2026-07-01,Income,Salary,65000,Monthly salary
+2026-07-01,Expense,Transportation,90,Ride / bus fare
+2026-07-01,Expense,Transportation,180,Ride / bus fare
+2026-07-03,Expense,Food,2200,Groceries
+2026-07-05,Expense,Housing,18000,House rent
+2026-07-05,Expense,Entertainment,1400,Streaming subscription
+2026-07-06,Expense,Transportation,240,Ride / bus fare
+2026-07-06,Expense,Transportation,200,Ride / bus fare
+2026-07-07,Expense,Housing,2200,"Utilities (electricity, gas, internet)"
+2026-07-07,Expense,Transportation,240,Ride / bus fare
+2026-07-09,Expense,Health,1400,Pharmacy / checkup
+2026-07-10,Expense,Food,1900,Groceries
+2026-07-10,Expense,Education,4500,Course / books
+2026-07-11,Expense,Transportation,160,Ride / bus fare
+2026-07-12,Income,Gift,5000,Birthday gift
+2026-07-14,Expense,Transportation,140,Ride / bus fare
+2026-07-15,Income,Investment,1100,Dividend / interest
+2026-07-15,Expense,Food,600,Dining out - restaurant
+2026-07-15,Expense,Entertainment,1900,Weekend trip
+2026-07-17,Expense,Transportation,1700,Fuel / monthly pass
+2026-07-18,Expense,Food,2700,Groceries
+2026-07-18,Expense,Food,700,Dining out - restaurant
+2026-07-20,Expense,Transportation,220,Ride / bus fare
+2026-07-20,Expense,Entertainment,1600,Movie night
+2026-07-21,Expense,Entertainment,1400,Movie night
+2026-07-24,Expense,Food,2600,Groceries
+2026-07-26,Expense,Food,900,Dining out - restaurant
+2026-07-28,Expense,Entertainment,1800,Movie night
+2026-08-01,Income,Salary,65000,Monthly salary
+2026-08-01,Expense,Entertainment,2000,Movie night
+2026-08-03,Expense,Entertainment,2000,Gaming
+2026-08-04,Expense,Food,2100,Groceries
+2026-08-04,Expense,Entertainment,2200,Weekend trip
+2026-08-05,Expense,Housing,18000,House rent
+2026-08-07,Expense,Housing,2800,"Utilities (electricity, gas, internet)"
+2026-08-08,Expense,Food,600,Dining out - restaurant
+2026-08-08,Expense,Transportation,1500,Fuel / monthly pass
+2026-08-09,Expense,Entertainment,1800,Weekend trip
+2026-08-10,Expense,Education,4500,Course / books
+2026-08-11,Expense,Food,2300,Groceries
+2026-08-11,Expense,Transportation,180,Ride / bus fare
+2026-08-11,Expense,Transportation,120,Ride / bus fare
+2026-08-12,Expense,Food,1000,Dining out - restaurant
+2026-08-12,Expense,Food,700,Dining out - restaurant
+2026-08-13,Expense,Transportation,180,Ride / bus fare
+2026-08-13,Expense,Transportation,180,Ride / bus fare
+2026-08-14,Expense,Entertainment,2300,Concert / outing
+2026-08-15,Income,Investment,1100,Dividend / interest
+2026-08-16,Expense,Transportation,190,Ride / bus fare
+2026-08-16,Expense,Transportation,150,Ride / bus fare
+2026-08-17,Expense,Food,1800,Groceries
+2026-08-17,Expense,Transportation,240,Ride / bus fare
+2026-08-18,Expense,Food,700,Dining out - restaurant
+2026-08-20,Income,Freelance,10000,Freelance project payment
+2026-08-20,Income,Debt Repaid,4000,Friend repaid loan
+2026-08-23,Expense,Health,1900,Pharmacy / checkup
+2026-08-24,Expense,Entertainment,1400,Gaming
+2026-08-25,Expense,Food,2100,Groceries
+2026-08-27,Expense,Transportation,100,Ride / bus fare
+2026-08-28,Expense,Entertainment,2300,Streaming subscription
+2026-09-01,Income,Salary,65000,Monthly salary
+2026-09-01,Expense,Transportation,200,Ride / bus fare
+2026-09-01,Expense,Entertainment,2600,Movie night
+2026-09-02,Expense,Transportation,240,Ride / bus fare
+2026-09-02,Expense,Entertainment,2300,Streaming subscription
+2026-09-03,Expense,Food,2500,Groceries
+2026-09-03,Expense,Entertainment,2200,Gaming
+2026-09-05,Expense,Housing,18000,House rent
+2026-09-07,Expense,Housing,2600,"Utilities (electricity, gas, internet)"
+2026-09-07,Expense,Transportation,200,Ride / bus fare
+2026-09-10,Expense,Transportation,150,Ride / bus fare
+2026-09-10,Expense,Education,4500,Course / books
+2026-09-11,Expense,Food,2000,Groceries
+2026-09-12,Expense,Food,1100,Dining out - restaurant
+2026-09-12,Expense,Transportation,1800,Fuel / monthly pass
+2026-09-12,Expense,Entertainment,2700,Movie night
+2026-09-13,Expense,Food,800,Dining out - restaurant
+2026-09-14,Expense,Transportation,200,Ride / bus fare
+2026-09-15,Income,Investment,800,Dividend / interest
+2026-09-16,Expense,Transportation,160,Ride / bus fare
+2026-09-17,Expense,Food,700,Dining out - restaurant
+2026-09-18,Income,Freelance,8000,Freelance project payment
+2026-09-18,Expense,Food,1800,Groceries
+2026-09-19,Expense,Food,900,Dining out - restaurant
+2026-09-19,Expense,Entertainment,2500,Gaming
+2026-09-20,Expense,Entertainment,2600,Streaming subscription
+2026-09-22,Expense,Transportation,80,Ride / bus fare
+2026-09-22,Expense,Entertainment,2500,Weekend trip
+2026-09-24,Expense,Food,2100,Groceries
+2026-09-24,Expense,Health,900,Pharmacy / checkup
+2026-09-25,Expense,Food,1100,Dining out - restaurant
+2026-09-25,Expense,Transportation,170,Ride / bus fare
+2026-09-25,Expense,Entertainment,2400,Streaming subscription
+2026-09-26,Expense,Entertainment,2200,Gaming

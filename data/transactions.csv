@@ -1,0 +1,121 @@
+id,date,type,category,amount,description,is_discretionary
+1,2026-06-01,Income,Salary,65000,Monthly salary,
+2,2026-06-03,Income,Loan,10000,Short-term personal loan,
+3,2026-06-04,Expense,Food,2500,Groceries,0.0
+4,2026-06-04,Expense,Transportation,210,Ride / bus fare,0.0
+5,2026-06-04,Expense,Transportation,150,Ride / bus fare,0.0
+6,2026-06-05,Expense,Housing,18000,House rent,0.0
+7,2026-06-07,Expense,Housing,2900,"Utilities (electricity, gas, internet)",0.0
+8,2026-06-08,Expense,Health,1800,Pharmacy / checkup,0.0
+9,2026-06-10,Expense,Transportation,120,Ride / bus fare,0.0
+10,2026-06-10,Expense,Education,4500,Course / books,0.0
+11,2026-06-11,Expense,Food,2000,Groceries,0.0
+12,2026-06-14,Expense,Transportation,160,Ride / bus fare,0.0
+13,2026-06-14,Expense,Transportation,1900,Fuel / monthly pass,0.0
+14,2026-06-14,Expense,Entertainment,700,Weekend trip,1.0
+15,2026-06-15,Income,Investment,1200,Dividend / interest,
+16,2026-06-15,Expense,Food,800,Dining out - restaurant,1.0
+17,2026-06-17,Expense,Food,2100,Groceries,0.0
+18,2026-06-17,Expense,Transportation,170,Ride / bus fare,0.0
+19,2026-06-18,Expense,Entertainment,800,Weekend trip,1.0
+20,2026-06-21,Expense,Transportation,120,Ride / bus fare,0.0
+21,2026-06-23,Expense,Transportation,130,Ride / bus fare,0.0
+22,2026-06-23,Expense,Entertainment,1300,Concert / outing,1.0
+23,2026-06-24,Income,Freelance,11000,Freelance project payment,
+24,2026-06-24,Expense,Food,2600,Groceries,0.0
+25,2026-06-26,Expense,Food,400,Dining out - restaurant,1.0
+26,2026-06-28,Expense,Transportation,150,Ride / bus fare,0.0
+27,2026-07-01,Income,Salary,65000,Monthly salary,
+28,2026-07-01,Expense,Transportation,90,Ride / bus fare,0.0
+29,2026-07-01,Expense,Transportation,180,Ride / bus fare,0.0
+30,2026-07-03,Expense,Food,2200,Groceries,0.0
+31,2026-07-05,Expense,Housing,18000,House rent,0.0
+32,2026-07-05,Expense,Entertainment,1400,Streaming subscription,1.0
+33,2026-07-06,Expense,Transportation,240,Ride / bus fare,0.0
+34,2026-07-06,Expense,Transportation,200,Ride / bus fare,0.0
+35,2026-07-07,Expense,Housing,2200,"Utilities (electricity, gas, internet)",0.0
+36,2026-07-07,Expense,Transportation,240,Ride / bus fare,0.0
+37,2026-07-09,Expense,Health,1400,Pharmacy / checkup,0.0
+38,2026-07-10,Expense,Food,1900,Groceries,0.0
+39,2026-07-10,Expense,Education,4500,Course / books,0.0
+40,2026-07-11,Expense,Transportation,160,Ride / bus fare,0.0
+41,2026-07-12,Income,Gift,5000,Birthday gift,
+42,2026-07-14,Expense,Transportation,140,Ride / bus fare,0.0
+43,2026-07-15,Income,Investment,1100,Dividend / interest,
+44,2026-07-15,Expense,Food,600,Dining out - restaurant,1.0
+45,2026-07-15,Expense,Entertainment,1900,Weekend trip,1.0
+46,2026-07-17,Expense,Transportation,1700,Fuel / monthly pass,0.0
+47,2026-07-18,Expense,Food,2700,Groceries,0.0
+48,2026-07-18,Expense,Food,700,Dining out - restaurant,1.0
+49,2026-07-20,Expense,Transportation,220,Ride / bus fare,0.0
+50,2026-07-20,Expense,Entertainment,1600,Movie night,1.0
+51,2026-07-21,Expense,Entertainment,1400,Movie night,1.0
+52,2026-07-24,Expense,Food,2600,Groceries,0.0
+53,2026-07-26,Expense,Food,900,Dining out - restaurant,1.0
+54,2026-07-28,Expense,Entertainment,1800,Movie night,1.0
+55,2026-08-01,Income,Salary,65000,Monthly salary,
+56,2026-08-01,Expense,Entertainment,2000,Movie night,1.0
+57,2026-08-03,Expense,Entertainment,2000,Gaming,1.0
+58,2026-08-04,Expense,Food,2100,Groceries,0.0
+59,2026-08-04,Expense,Entertainment,2200,Weekend trip,1.0
+60,2026-08-05,Expense,Housing,18000,House rent,0.0
+61,2026-08-07,Expense,Housing,2800,"Utilities (electricity, gas, internet)",0.0
+62,2026-08-08,Expense,Food,600,Dining out - restaurant,1.0
+63,2026-08-08,Expense,Transportation,1500,Fuel / monthly pass,0.0
+64,2026-08-09,Expense,Entertainment,1800,Weekend trip,1.0
+65,2026-08-10,Expense,Education,4500,Course / books,0.0
+66,2026-08-11,Expense,Food,2300,Groceries,0.0
+67,2026-08-11,Expense,Transportation,180,Ride / bus fare,0.0
+68,2026-08-11,Expense,Transportation,120,Ride / bus fare,0.0
+69,2026-08-12,Expense,Food,1000,Dining out - restaurant,1.0
+70,2026-08-12,Expense,Food,700,Dining out - restaurant,1.0
+71,2026-08-13,Expense,Transportation,180,Ride / bus fare,0.0
+72,2026-08-13,Expense,Transportation,180,Ride / bus fare,0.0
+73,2026-08-14,Expense,Entertainment,2300,Concert / outing,1.0
+74,2026-08-15,Income,Investment,1100,Dividend / interest,
+75,2026-08-16,Expense,Transportation,190,Ride / bus fare,0.0
+76,2026-08-16,Expense,Transportation,150,Ride / bus fare,0.0
+77,2026-08-17,Expense,Food,1800,Groceries,0.0
+78,2026-08-17,Expense,Transportation,240,Ride / bus fare,0.0
+79,2026-08-18,Expense,Food,700,Dining out - restaurant,1.0
+80,2026-08-20,Income,Freelance,10000,Freelance project payment,
+81,2026-08-20,Income,Debt Repaid,4000,Friend repaid loan,
+82,2026-08-23,Expense,Health,1900,Pharmacy / checkup,0.0
+83,2026-08-24,Expense,Entertainment,1400,Gaming,1.0
+84,2026-08-25,Expense,Food,2100,Groceries,0.0
+85,2026-08-27,Expense,Transportation,100,Ride / bus fare,0.0
+86,2026-08-28,Expense,Entertainment,2300,Streaming subscription,1.0
+87,2026-09-01,Income,Salary,65000,Monthly salary,
+88,2026-09-01,Expense,Transportation,200,Ride / bus fare,0.0
+89,2026-09-01,Expense,Entertainment,2600,Movie night,1.0
+90,2026-09-02,Expense,Transportation,240,Ride / bus fare,0.0
+91,2026-09-02,Expense,Entertainment,2300,Streaming subscription,1.0
+92,2026-09-03,Expense,Food,2500,Groceries,0.0
+93,2026-09-03,Expense,Entertainment,2200,Gaming,1.0
+94,2026-09-05,Expense,Housing,18000,House rent,0.0
+95,2026-09-07,Expense,Housing,2600,"Utilities (electricity, gas, internet)",0.0
+96,2026-09-07,Expense,Transportation,200,Ride / bus fare,0.0
+97,2026-09-10,Expense,Transportation,150,Ride / bus fare,0.0
+98,2026-09-10,Expense,Education,4500,Course / books,0.0
+99,2026-09-11,Expense,Food,2000,Groceries,0.0
+100,2026-09-12,Expense,Food,1100,Dining out - restaurant,1.0
+101,2026-09-12,Expense,Transportation,1800,Fuel / monthly pass,0.0
+102,2026-09-12,Expense,Entertainment,2700,Movie night,1.0
+103,2026-09-13,Expense,Food,800,Dining out - restaurant,1.0
+104,2026-09-14,Expense,Transportation,200,Ride / bus fare,0.0
+105,2026-09-15,Income,Investment,800,Dividend / interest,
+106,2026-09-16,Expense,Transportation,160,Ride / bus fare,0.0
+107,2026-09-17,Expense,Food,700,Dining out - restaurant,1.0
+108,2026-09-18,Income,Freelance,8000,Freelance project payment,
+109,2026-09-18,Expense,Food,1800,Groceries,0.0
+110,2026-09-19,Expense,Food,900,Dining out - restaurant,1.0
+111,2026-09-19,Expense,Entertainment,2500,Gaming,1.0
+112,2026-09-20,Expense,Entertainment,2600,Streaming subscription,1.0
+113,2026-09-22,Expense,Transportation,80,Ride / bus fare,0.0
+114,2026-09-22,Expense,Entertainment,2500,Weekend trip,1.0
+115,2026-09-24,Expense,Food,2100,Groceries,0.0
+116,2026-09-24,Expense,Health,900,Pharmacy / checkup,0.0
+117,2026-09-25,Expense,Food,1100,Dining out - restaurant,1.0
+118,2026-09-25,Expense,Transportation,170,Ride / bus fare,0.0
+119,2026-09-25,Expense,Entertainment,2400,Streaming subscription,1.0
+120,2026-09-26,Expense,Entertainment,2200,Gaming,1.0
